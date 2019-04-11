@@ -1,3 +1,5 @@
 title: UHManoasList
+github:
+  zip_url: https://github.com/uhmanoaslist/uhmanoalistcode
 description: A flea market service for the University of Hawaii at Manoa community
 theme: jekyll-theme-slate
