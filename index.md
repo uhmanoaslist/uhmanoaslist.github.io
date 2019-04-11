@@ -1,4 +1,3 @@
-# UHManoasList
 
 This is the homepage for this project, it provides an outline of the project and features as well as the progress of its development.
 
