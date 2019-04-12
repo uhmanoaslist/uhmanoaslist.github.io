@@ -37,6 +37,19 @@ will be granted.
 
 To list an item for sale, head to the *Sell an Item* page and fill out the respective information, the name of the item, your asking price for the item, the condition the item is in, and a image to show what the item looks like.  Press submit to put up your item for sale.
 
+<img class="ui centered image" src="/images/SellPage.png">
+
+
 Each user will have a profile page with the ability to view items that they are putting up for sale, as well as items that they are potentially looking to buy.
 
-To buy an item, head to the categories page to browse the numerous and different items for sale.  If you find a item that you like, clock the item and fill out the appropriate information to get into contact with the seller and to meetup to sell the item.
+
+To buy an item, head to the categories page to browse the numerous and different items for sale.  
+
+<img class="ui centered image" src="/images/CategoryPage.png">
+
+<img class="ui centered image" src="/images/ItemPage.png">
+
+<img class="ui centered image" src="/images/ReportPage.png">
+
+
+
