@@ -26,7 +26,7 @@ All of these functionalities are tentative and have not been developed yet, this
 
 Each user will start with the landing page, which provides a basic information as to what UHManoasList is.  New and returning users must create a new account or sign in to gain full access to the website.
 
-<img class="ui centered image" src="/images/LandingPage.jpeg">
+<img class="ui centered image" src="/images/LandingPage.png">
 
 
 Upon logging in with the correct credentials, functionality to 
