@@ -27,6 +27,7 @@ All of these functionalities are tentative and have not been developed yet, this
 Each user will start with the landing page, which provides a basic information as to what UHManoasList is.  New and returning users must create a new account or sign in to gain full access to the website.
 
 <img class="ui centered image" src="/images/LandingPage.png">
+[Landing Page](http://uhmanoaslist.meteorapp.com/#/)
 
 
 Upon logging in with the correct credentials, functionality to 
@@ -38,6 +39,7 @@ will be granted.
 To list an item for sale, head to the *Sell an Item* page and fill out the respective information, the name of the item, your asking price for the item, the condition the item is in, and a image to show what the item looks like.  Press submit to put up your item for sale.
 
 <img class="ui centered image" src="/images/SellPage.png">
+[Sell Page](http://uhmanoaslist.meteorapp.com/#/add)
 
 
 Each user will have a profile page with the ability to view items that they are putting up for sale, as well as items that they are potentially looking to buy.
@@ -46,14 +48,17 @@ Each user will have a profile page with the ability to view items that they are 
 To buy an item, head to the categories page to browse the numerous and different items for sale.  
 
 <img class="ui centered image" src="/images/CategoryPage.png">
+[Category page](http://uhmanoaslist.meteorapp.com/#/list)
 
 To see more Details about an idividual item, check out the buy item page.
 
 <img class="ui centered image" src="/images/ItemPage.png">
+[Item Page](http://uhmanoaslist.meteorapp.com/#/edit/WkNRoWoM5uHgJE99p)
 
 If you find any suspicous or illegal items, head to the report page to send an alert to our admins.
 
 <img class="ui centered image" src="/images/ReportPage.png">
+[Report Page](http://uhmanoaslist.meteorapp.com/#/report/WkNRoWoM5uHgJE99p)
 
 
 
