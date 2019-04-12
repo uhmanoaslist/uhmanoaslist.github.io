@@ -1,5 +1,7 @@
 [Project Board](https://github.com/uhmanoaslist/uhmanoalistcode/projects/1)
+
 [Repository](https://github.com/uhmanoaslist/uhmanoalistcode)
+
 [Deployed Website](http://uhmanoaslist.meteorapp.com)
 
 # About UHManoasList
