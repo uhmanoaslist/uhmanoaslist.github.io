@@ -47,7 +47,11 @@ To buy an item, head to the categories page to browse the numerous and different
 
 <img class="ui centered image" src="/images/CategoryPage.png">
 
+To see more Details about an idividual item, check out the buy item page.
+
 <img class="ui centered image" src="/images/ItemPage.png">
+
+If you find any suspicous or illegal items, head to the report page to send an alert to our admins.
 
 <img class="ui centered image" src="/images/ReportPage.png">
 
