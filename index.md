@@ -67,15 +67,16 @@ If you find any suspicous or illegal items, head to the report page to send an a
 
 To download the source code for UHManoasList, head to the [repository](https://github.com/uhmanoaslist/uhmanoalistcode) and download the master branch.
 
-To run the native app, head to your computers native terminal and install meteor using this command
+To run the native app, head to your computers native terminal and install meteor in the app folder using this command
 
+<img class="ui centered image" src="/images/meteor2.png">
 
+Then, cd into the master branch directory and get to the app folder and run this command to start teh app
 
-Then, cd into the master branch directory and get to the app folder and run this command
+<img class="ui centered image" src="/images/Meteor1.png">
 
+After running *meteor npm run start* within the app folder head to http://localhost:3000 to see the app running.
 
+<img class="ui centered image" src="/images/meteor3.png">
 
-After running *meteor npm run start* head to http://localhost:3000 to see the app running.
-
-
-To modify the native source code, we reccoment you use IntelliJ Idea to modify the source code to your liking.  You can download it [here](https://www.jetbrains.com/idea/download/#section=mac)
+To modify the native source code, we reccomend you use IntelliJ Idea to modify the source code to your liking. You can download it [here](https://www.jetbrains.com/idea/download/#section=mac)
