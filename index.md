@@ -33,37 +33,49 @@ Each user will start with the landing page, which provides a basic information a
 
 Upon logging in with the correct credentials, functionality to 
   *Sell an item*,
-  *Buy an item*,
-  *View items for sale*
+  *View Categories page to buy an item*,
+  *View different user profiles to buy items*,
 will be granted.
 
-To list an item for sale, head to the *Sell an Item* page and fill out the respective information, the name of the item, your asking price for the item, the condition the item is in, and a image to show what the item looks like.  Press submit to put up your item for sale.
+To list an item for sale, head to the *Sell an Item* page and fill out the respective information, the name of the item, your asking price for the item, the condition the item is in, and a image to show what the item looks like and what category you believe your item falls under. Press submit to put up your item for sale.
 
 <img class="ui centered image" src="/images/SellPage.png">
 
 [Sell Page](http://uhmanoaslist.meteorapp.com/#/add)
 
-
 Each user will have a profile page with the ability to view items that they are putting up for sale, as well as items that they are potentially looking to buy.
 
-
-To buy an item, head to the categories page to browse the numerous and different items for sale.  
+To buy an item, head to the categories page to browse the numerous different categories and different items within their respective categories for sale.  
 
 <img class="ui centered image" src="/images/CategoryPage.png">
 
 [Category page](http://uhmanoaslist.meteorapp.com/#/list)
 
-To see more Details about an idividual item, check out the buy item page.
+To see more details about an idividual item, click the view button on the item you want to buy.  You will be redirected to the item page where you can look at the sellers profile page which contains the contact information to buy the item.
 
 <img class="ui centered image" src="/images/ItemPage.png">
 
 [Item Page](http://uhmanoaslist.meteorapp.com/#/edit/WkNRoWoM5uHgJE99p)
 
-If you find any suspicous or illegal items, head to the report page to send an alert to our admins.
+If you find any suspicous or illegal items, head to the report page to send an alert to our admins by providing a description why the item needs to be checked over and press submit.
 
 <img class="ui centered image" src="/images/ReportPage.png">
 
 [Report Page](http://uhmanoaslist.meteorapp.com/#/report/WkNRoWoM5uHgJE99p)
 
+## Developer Guide
+
+To download the source code for UHManoasList, head to the [repository](https://github.com/uhmanoaslist/uhmanoalistcode) and download the master branch.
+
+To run the native app, head to your computers native terminal and install meteor using this command
 
 
+
+Then, cd into the master branch directory and get to the app folder and run this command
+
+
+
+After running *meteor npm run start* head to http://localhost:3000 to see the app running.
+
+
+To modify the native source code, we reccoment you use IntelliJ Idea to modify the source code to your liking.  You can download it here https://www.jetbrains.com/idea/download/#section=mac
