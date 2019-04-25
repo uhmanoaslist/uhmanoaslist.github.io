@@ -78,4 +78,4 @@ Then, cd into the master branch directory and get to the app folder and run this
 After running *meteor npm run start* head to http://localhost:3000 to see the app running.
 
 
-To modify the native source code, we reccoment you use IntelliJ Idea to modify the source code to your liking.  You can download it here https://www.jetbrains.com/idea/download/#section=mac
+To modify the native source code, we reccoment you use IntelliJ Idea to modify the source code to your liking.  You can download it [here](https://www.jetbrains.com/idea/download/#section=mac)
