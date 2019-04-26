@@ -74,7 +74,7 @@ If you find any suspicious or illegal items, head to the report page to send an 
 
 To download the source code for UHManoasList, head to the [repository](https://github.com/uhmanoaslist/uhmanoalistcode) and download the master branch.
 
-To run the native app, cd into the master branch directory and get to the app folder and run this command to install meteor
+To run the native app, cd into the master branch directory of your computers native terminal and get to the app folder 
 
 <img class="ui centered image" src="/images/meteor2.png">
 
@@ -82,7 +82,7 @@ Then, install meteor in the app folder using this command
 
 <img class="ui centered image" src="/images/Meteor1.png">
 
-After running *meteor npm run start* within the app folder head to http://localhost:3000 to see the app running.
+Then run *meteor npm run start* within the app folder head to http://localhost:3000 to see the app running.
 
 <img class="ui centered image" src="/images/meteor3.png">
 
