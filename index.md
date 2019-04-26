@@ -47,9 +47,15 @@ Each user will have a profile page with the ability to view items that they are 
 
 To buy an item, head to the categories page to browse the numerous different categories and different items within their respective categories for sale.  
 
-<img class="ui centered image" src="/images/CategoryPage.png">
+<img class="ui centered image" src="/images/CategoriesPage.png">
 
-[Category page](http://uhmanoaslist.meteorapp.com/#/list)
+[Categories page](http://uhmanoaslist.meteorapp.com/#/list)
+
+Each category will include items for sale realated to that category.
+
+<img class="ui centered image" src="/images/CategoryPage.png">
+[Category page](http://uhmanoaslist.meteorapp.com/#/category/Electronics)
+
 
 To see more details about an individual item, click the view button on the item you want to buy.  You will be redirected to the item page where you can look at the seller's profile page which contains the contact information to buy the item.
 
