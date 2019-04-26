@@ -39,7 +39,7 @@ will be granted.
 
 To list an item for sale, head to the *Sell an Item* page and fill out the respective information, the name of the item, your asking price for the item, the condition the item is in, and a image to show what the item looks like and what category you believe your item falls under. Press submit to put up your item for sale.
 
-<img class="ui centered image" src="/images/SellPage.png">
+<img class="ui centered image" src="/images/sell1.png">
 
 [Sell Page](http://uhmanoaslist.meteorapp.com/#/add)
 
