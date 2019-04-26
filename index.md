@@ -37,7 +37,7 @@ Upon logging in with the correct credentials, functionality to
   *View different user profiles to buy items*,
 will be granted.
 
-To list an item for sale, head to the *Sell an Item* page and fill out the respective information, the name of the item, your asking price for the item, the condition the item is in, and a image to show what the item looks like and what category you believe your item falls under. Press submit to put up your item for sale.
+To list an item for sale, head to the *Sell an Item* page and fill out the respective information, the name of the item, your asking price for the item, the condition the item is in, and a image to show what the item looks like and what category you believe your item falls under as well as a description for the item you are selling. Press submit to put up your item for sale.
 
 <img class="ui centered image" src="/images/sell1.png">
 
