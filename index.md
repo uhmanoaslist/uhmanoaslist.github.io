@@ -54,6 +54,7 @@ To buy an item, head to the categories page to browse the numerous different cat
 Each category will include items for sale realated to that category.
 
 <img class="ui centered image" src="/images/CategoryPage.png">
+
 [Category page](http://uhmanoaslist.meteorapp.com/#/category/Electronics)
 
 
