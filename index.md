@@ -24,7 +24,7 @@ All of these functionalities are tentative and have not been developed yet, this
 
 # User Guide
 
-Each user will start with the landing page, which provides a basic information as to what UHManoasList is.  New and returning users must create a new account or sign in to gain full access to the website.
+Each user will start with the landing page, which provides basic information as to what UHManoasList is.  New and returning users must create a new account or sign in to gain full access to the website.
 
 <img class="ui centered image" src="/images/LandingPage.png">
 
@@ -51,13 +51,13 @@ To buy an item, head to the categories page to browse the numerous different cat
 
 [Category page](http://uhmanoaslist.meteorapp.com/#/list)
 
-To see more details about an idividual item, click the view button on the item you want to buy.  You will be redirected to the item page where you can look at the sellers profile page which contains the contact information to buy the item.
+To see more details about an individual item, click the view button on the item you want to buy.  You will be redirected to the item page where you can look at the seller's profile page which contains the contact information to buy the item.
 
 <img class="ui centered image" src="/images/ItemPage.png">
 
 [Item Page](http://uhmanoaslist.meteorapp.com/#/edit/WkNRoWoM5uHgJE99p)
 
-If you find any suspicous or illegal items, head to the report page to send an alert to our admins by providing a description why the item needs to be checked over and press submit.
+If you find any suspicious or illegal items, head to the report page to send an alert to our admins by providing a description of why the item needs to be checked over and press submit.
 
 <img class="ui centered image" src="/images/ReportPage.png">
 
@@ -71,7 +71,7 @@ To run the native app, head to your computers native terminal and install meteor
 
 <img class="ui centered image" src="/images/meteor2.png">
 
-Then, cd into the master branch directory and get to the app folder and run this command to start teh app
+Then, cd into the master branch directory and get to the app folder and run this command to start the app
 
 <img class="ui centered image" src="/images/Meteor1.png">
 
@@ -79,4 +79,4 @@ After running *meteor npm run start* within the app folder head to http://localh
 
 <img class="ui centered image" src="/images/meteor3.png">
 
-To modify the native source code, we reccomend you use IntelliJ Idea to modify the source code to your liking. You can download it [here](https://www.jetbrains.com/idea/download/#section=mac)
+To modify the native source code, we recommend you use IntelliJ Idea to modify the source code to your liking. You can download it [here](https://www.jetbrains.com/idea/download/#section=mac)
