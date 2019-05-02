@@ -4,6 +4,8 @@
 
 [Deployed Website](http://uhmanoaslist.meteorapp.com)
 
+## Project Milestones
+
 [Milestone 1](https://github.com/uhmanoaslist/uhmanoalistcode/projects/1)
 
 [Milestone 2](https://github.com/uhmanoaslist/uhmanoalistcode/projects/2)
