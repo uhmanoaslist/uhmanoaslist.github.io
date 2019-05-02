@@ -4,6 +4,13 @@
 
 [Deployed Website](http://uhmanoaslist.meteorapp.com)
 
+[Milestone 1](https://github.com/uhmanoaslist/uhmanoalistcode/projects/1)
+
+[Milestone 2](https://github.com/uhmanoaslist/uhmanoalistcode/projects/2)
+
+[Milestone 3](https://github.com/uhmanoaslist/uhmanoalistcode/projects/3)
+
+
 # About UHManoasList
 
 UHManoasList is a service that is going to be available for UH Manoa students. Students who have an interest in selling or buying school or campus living related objects would use this service to do just that. This service would be a method for students to sell some things that they think that another student would find useful but no longer need themselves, such as textbooks or a piece of furniture for a dorm room. Similarly, it is a method to buy an item you think you might be interested in from sellers of an object of that nature.
