@@ -40,11 +40,15 @@ Each user will start with the landing page, which provides basic information as 
 [Landing Page](http://uhmanoaslist.meteorapp.com/#/)
 
 
-Upon logging in with the correct credentials, functionality to 
+Upon logging in or signing up with the correct credentials, functionality to 
   *Sell an item*,
   *View Categories page to buy an item*,
   *View different user profiles to buy items*,
 will be granted.
+
+When you first signup, you will need to fill out a form with all the necessary information for a user profile.
+
+<img class="ui centered image" src="/images/create.png">
 
 To list an item for sale, head to the *Sell an Item* page and fill out the respective information, the name of the item, your asking price for the item, the condition the item is in, and a image to show what the item looks like and what category you believe your item falls under as well as a description for the item you are selling. Press submit to put up your item for sale.
 
@@ -53,6 +57,12 @@ To list an item for sale, head to the *Sell an Item* page and fill out the respe
 [Sell Page](http://uhmanoaslist.meteorapp.com/#/add)
 
 Each user will have a profile page with the ability to view items that they are putting up for sale, as well as items that they are potentially looking to buy.
+
+<img class="ui centered image" src="/images/profile.png">
+
+If you would like to edit your profile, you can click your username in the top righthand corner and click *Edit Profile* to edit your profile.
+
+<img class="ui centered image" src="/images/edit.png">
 
 To buy an item, head to the categories page to browse the numerous different categories and different items within their respective categories for sale.  
 
