@@ -31,6 +31,22 @@ This application is meant specifically for UH students, faculty, and staff. Our 
 
 All of these functionalities are tentative and have not been developed yet, this page will update as progress has been made in development.
 
+# Community Feedback
+Jason Connell says
+*Clean looking website, likes how it works, and little hard to navigate*
+ 
+Jacob Connell says
+ *Maybe have a different color scheme, easy to use, and very functional*
+
+Josh Kamisugi says
+*Good idea ,could be more appealing, but overall good functionality*
+
+Cameron Lee says
+*Good concept,a bit similar to craigslist, could make more user friendly, good functionality*
+
+Lauren Miguel says
+*I like the colors, I like how everything is set up, it's simple, could be more appealing to the eye*
+
 # User Guide
 
 Each user will start with the landing page, which provides basic information as to what UHManoasList is.  New and returning users must create a new account or sign in to gain full access to the website.
