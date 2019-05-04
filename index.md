@@ -51,7 +51,7 @@ Lauren Miguel says
 
 Each user will start with the landing page, which provides basic information as to what UHManoasList is.  New and returning users must create a new account or sign in to gain full access to the website.
 
-<img class="ui centered image" src="/images/LandingPage.png">
+<img class="ui centered image" src="/images/HomePage.png">
 
 [Landing Page](http://uhmanoaslist.meteorapp.com/#/)
 
