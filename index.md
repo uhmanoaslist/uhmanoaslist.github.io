@@ -32,19 +32,19 @@ This application is meant specifically for UH students, faculty, and staff. Our 
 All of these functionalities are tentative and have not been developed yet, this page will update as progress has been made in development.
 
 # Community Feedback
-Jason Connell says
+Jason C. says
 *Clean looking website, likes how it works, and little hard to navigate*
  
-Jacob Connell says
+Jacob C. says
  *Maybe have a different color scheme, easy to use, and very functional*
 
-Josh Kamisugi says
+Josh K. says
 *Good idea ,could be more appealing, but overall good functionality*
 
-Cameron Lee says
+Cameron L. says
 *Good concept,a bit similar to craigslist, could make more user friendly, good functionality*
 
-Lauren Miguel says
+Lauren M. says
 *I like the colors, I like how everything is set up, it's simple, could be more appealing to the eye*
 
 # User Guide
